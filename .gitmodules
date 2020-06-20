@@ -7,3 +7,6 @@
 [submodule "fish"]
 	path = fish
 	url = git@github.com:wrex-dots/fish.git
+[submodule "fontconfig"]
+	path = fontconfig
+	url = git@github.com:wrex-dots/fontconfig.git
