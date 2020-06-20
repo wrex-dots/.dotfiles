@@ -1,3 +1,6 @@
 [submodule "git"]
 	path = git
 	url = git@github.com:wrex-dots/git.git
+[submodule "dunst"]
+	path = dunst
+	url = git@github.com:wrex-dots/dunst.git
