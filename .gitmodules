@@ -46,3 +46,6 @@
 [submodule "X"]
 	path = X
 	url = git@github.com:wrex-dots/X.git
+[submodule "Themix"]
+	path = Themix
+	url = git@github.com:wrex-dots/Themix.git
