@@ -43,3 +43,6 @@
 [submodule "ly"]
 	path = ly
 	url = git@github.com:wrex-dots/ly.git
+[submodule "X"]
+	path = X
+	url = git@github.com:wrex-dots/X.git
