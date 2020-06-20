@@ -25,3 +25,6 @@
 [submodule "kitty"]
 	path = kitty
 	url = git@github.com:wrex-dots/kitty.git
+[submodule "pacman"]
+	path = pacman
+	url = git@github.com:wrex-dots/pacman.git
