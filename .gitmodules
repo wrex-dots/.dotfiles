@@ -28,3 +28,6 @@
 [submodule "pacman"]
 	path = pacman
 	url = git@github.com:wrex-dots/pacman.git
+[submodule "rofi"]
+	path = rofi
+	url = git@github.com:wrex-dots/rofi.git
