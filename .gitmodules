@@ -16,3 +16,6 @@
 [submodule "GDB"]
 	path = GDB
 	url = git@github.com:wrex-dots/GDB.git
+[submodule "goblocks"]
+	path = goblocks
+	url = git@github.com:wrex-dots/goblocks.git
