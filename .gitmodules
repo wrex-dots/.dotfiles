@@ -19,3 +19,6 @@
 [submodule "goblocks"]
 	path = goblocks
 	url = git@github.com:wrex-dots/goblocks.git
+[submodule "i3"]
+	path = i3
+	url = git@github.com:wrex-dots/i3.git
