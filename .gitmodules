@@ -40,3 +40,6 @@
 [submodule "mime"]
 	path = mime
 	url = git@github.com:wrex-dots/mime.git
+[submodule "ly"]
+	path = ly
+	url = git@github.com:wrex-dots/ly.git
