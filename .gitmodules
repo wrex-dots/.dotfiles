@@ -10,3 +10,6 @@
 [submodule "fontconfig"]
 	path = fontconfig
 	url = git@github.com:wrex-dots/fontconfig.git
+[submodule "vim"]
+	path = vim
+	url = git@github.com:wrex-dots/vim.git
