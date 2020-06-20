@@ -31,3 +31,6 @@
 [submodule "rofi"]
 	path = rofi
 	url = git@github.com:wrex-dots/rofi.git
+[submodule "TabNine"]
+	path = TabNine
+	url = git@github.com:wrex-dots/TabNine.git
