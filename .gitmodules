@@ -13,3 +13,6 @@
 [submodule "vim"]
 	path = vim
 	url = git@github.com:wrex-dots/vim.git
+[submodule "GDB"]
+	path = GDB
+	url = git@github.com:wrex-dots/GDB.git
