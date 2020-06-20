@@ -34,3 +34,6 @@
 [submodule "TabNine"]
 	path = TabNine
 	url = git@github.com:wrex-dots/TabNine.git
+[submodule "starship"]
+	path = starship
+	url = git@github.com:wrex-dots/starship.git
