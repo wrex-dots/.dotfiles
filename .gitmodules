@@ -37,3 +37,6 @@
 [submodule "starship"]
 	path = starship
 	url = git@github.com:wrex-dots/starship.git
+[submodule "mime"]
+	path = mime
+	url = git@github.com:wrex-dots/mime.git
